@@ -2,7 +2,7 @@ import webbrowser
 from tkinter import Tk, Label, Entry, Button
 import pygal
 
-from die import Die
+from dice import Die
 
 
 class WindowFunctions:
